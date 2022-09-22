@@ -1,2 +1,2 @@
-# cobraPrograms
-Contains code used to run various components of the COBRA experiment
+# cobraPython
+cobraPython contains python code used to run various components of the COBRA experiment
